@@ -15,8 +15,4 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws"  alt="tools"/>
 
 
-
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghanul090801&layout=compact&theme=dracula)
-
 ~~절대 탁황을 따라하지 않음~~
