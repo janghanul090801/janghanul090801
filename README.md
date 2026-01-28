@@ -9,14 +9,14 @@
 
 ## Stack
 ### Language
-<img src="https://skillicons.dev/icons?i=go,python,java,typescript,c,astro"  alt="languages"/>
+<img src="https://skillicons.dev/icons?i=go,python,java,typescript,c"  alt="languages"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,docker,aws"  alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws"  alt="tools"/>
 
 
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=janghanul090801&include_all_commits=true&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghanul090801&layout=compact&theme=dracula)
 
 ~~절대 탁황을 따라하지 않음~~
