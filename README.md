@@ -10,7 +10,7 @@
 
 ## Stack
 ### Language
-<img src="https://skillicons.dev/icons?i=go,python,typescript,java,c"  alt="languages"/>
+<img src="https://skillicons.dev/icons?i=go,python,typescript,java,rust,c"  alt="languages"/>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws"  alt="tools"/>
