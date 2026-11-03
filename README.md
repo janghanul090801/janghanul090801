@@ -14,7 +14,3 @@
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx"  alt="tools"/>
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=janghanul090801)](https://github.com/stats-organization/github-stats-extended)
-
-~~절대 탁황을 따라하지 않음~~
